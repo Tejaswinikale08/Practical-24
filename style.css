@@ -1,0 +1,47 @@
+.main{
+	background-image:url(photo.jpg);
+	background-size:cover;
+}
+.navbar{
+	text-align:center;
+	padding-top:20px;
+}
+.image{
+	text-align:center;
+	border-radius:50%;
+}
+.h1{	
+	text-align:center;
+}
+.skills{
+	text-align:center;
+}
+.experience{
+	text-align:center;
+}
+.education{
+	text-align:center;
+}
+hr{
+	width:50%;
+	color:dark black;
+}
+.contact {
+	text-align:center;
+}
+.contact a{
+	text-decoration: none;
+	color: black;
+	border: 1px solid black;
+}
+.contact :hover{
+	border-radius: 20%;
+	background-color: greenyellow;
+	transition: 0.6s ease;
+}
+.heading{
+	text-align: center;
+}
+.logo{
+	text-align: center;
+}
